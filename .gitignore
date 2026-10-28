@@ -1,0 +1,14 @@
+.env
+./project
+.python-version
+pyproject.toml
+__pycache__/
+venv/
+letsMakeEmbeddings.py
+main.py
+neo4j_verify.py
+text_breaking.py
+runtime.txt
+data/
+eval_harness.py
+get_ids.py
